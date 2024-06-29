@@ -18,9 +18,9 @@ You can sponse me on AFDIAN by the following link : [FSC Team](https://afdian.ne
 
 你可以在爱发电上赞助我： [FSC Team](https://afdian.net/a/fsc-team)
 
-## 更多 More
+## Github-readme-stats
 
-### 状态 Github-readme-stats
+### 状态 Stats
 
 [![FutureStudios-FSC's GitHub stats](https://github-readme-stats.vercel.app/api?username=FutureStudios-FSC&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,4 +29,4 @@ You can sponse me on AFDIAN by the following link : [FSC Team](https://afdian.ne
 ### 常用存储库 Repostiory
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FutureStudios-FSC&repo=PCL-Mainpage-MagicBox)](https://github.com/FutureStudios-FSC/PCL-Mainpage-MagicBox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FutureStudios-FSC&repo=FSC-HA-Objection)](https://github.com/FutureStudios-FSC-HA-Objection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FutureStudios-FSC&repo=FSC-HA-Objection)](https://github.com/FutureStudios/FSC-HA-Objection)
