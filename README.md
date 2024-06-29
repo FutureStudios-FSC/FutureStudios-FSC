@@ -17,3 +17,7 @@ You can sponse me on AFDIAN by the following link : [FSC Team](https://afdian.ne
 （怎么配置？都是中文的，你自己能看懂）
 
 你可以在爱发电上赞助我： [FSC Team](https://afdian.net/a/fsc-team)
+
+[![FutureStudios-FSC's GitHub stats](https://github-readme-stats.vercel.app/api?username=FutureStudios-FSC&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureStudios-FSC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
