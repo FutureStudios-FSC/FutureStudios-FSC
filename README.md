@@ -28,5 +28,5 @@ You can sponse me on AFDIAN by the following link : [FSC Team](https://afdian.ne
 
 ### 常用存储库 Repostiory
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FutureStudios-FSC&repo=PCL-Mainpage-MagicBox)](https://github.com/FutureStudios-FSC/PCL-Mainpage-MagicBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FutureStudios-FSC&repo=FSC-MagicBox-Mainpage)](https://github.com/FutureStudios-FSC/FSC-MagicBox-Mainpage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FutureStudios-FSC&repo=FSC-HA-Objection)](https://github.com/FutureStudios-FSC/FSC-HA-Objection)
